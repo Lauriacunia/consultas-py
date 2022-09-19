@@ -4,4 +4,4 @@ d['cuatro'] = 4.0
 # o usar? tiene alguna aplicacion practica?
 d.setdefault('cuatro', 4.0)
 
-# 2-Asi como en Js se utilizan diferentes stacks como MERN ...Hay algún stack de python?
+# 2-Asi como en Js se utilizan diferentes stack como MERN ...Hay algún stack de python?
